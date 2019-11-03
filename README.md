@@ -1,5 +1,5 @@
 # Solaire Of Astora
- Original Side Scrolling Fantasy Game
+Original side scrolling fantasy game inspired by the Dark Souls series.
 
 HOW TO PLAY:
 
