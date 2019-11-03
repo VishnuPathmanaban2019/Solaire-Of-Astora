@@ -1,4 +1,4 @@
-# Solaire-Of-Astora
+# Solaire Of Astora
  Original Side Scrolling Fantasy Game
 
 HOW TO PLAY:
