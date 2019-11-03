@@ -1,6 +1,8 @@
 # Solaire Of Astora
 Original side scrolling fantasy game inspired by the Dark Souls series. (CMU 15-112)
 
+![SOA](SOA.png?raw=true)
+
 HOW TO PLAY:
 
 1. Download latest version of Python
