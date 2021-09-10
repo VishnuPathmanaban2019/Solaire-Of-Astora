@@ -1,5 +1,5 @@
 # Solaire Of Astora
-Original side scrolling fantasy game inspired by the Dark Souls series. (CMU 15-112)
+Original side scrolling fantasy game inspired by the Dark Souls series.
 
 ![SOA](SOA.png?raw=true)
 
